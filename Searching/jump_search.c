@@ -2,6 +2,8 @@
 #include <math.h>
 #include <stdio.h>
 
+#define ADD 100
+
 
 #define min(X, Y) ((X) < (Y) ? (X) : (Y))
 
