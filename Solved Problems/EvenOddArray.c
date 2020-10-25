@@ -20,11 +20,11 @@ int main() {
             k++;
         }
     }
-    printf("\nEven Nos.:\n");
+    printf("\nEven Numbers are:\n");
     for(i=0;i<j;i++){
         printf("%d ",even[i]);
     }
-    printf("\nOdd Nos.:\n");
+    printf("\nOdd Numbers are:\n");
     for(i=0;i<k;i++){
         printf("%d ",odd[i]);
     }
